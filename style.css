@@ -3,3 +3,10 @@ section {
   width: 30vw;
   float: left;
 }
+
+aside {
+  display: inline-block;
+  width: 30vw;
+  float: left;
+  background: grey;
+}
